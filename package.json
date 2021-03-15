@@ -1,0 +1,17 @@
+{
+  "name": "generator-aplus-cra",
+  "version": "1.0.0",
+  "description": "基于cra快速搭建aplus项目的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "jay.liu",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.1.0"
+  }
+}
